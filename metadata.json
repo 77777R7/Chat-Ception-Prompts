@@ -2,6 +2,7 @@
   "name": "recursive-screenshot-prompts",
   "description": "Five image-generation prompts for a recursive chain of realistic mobile screenshots.",
   "license": "MIT",
+  "reference_image_policy": "Reference images are visual examples only. The written prompt is the source of truth, and generated outputs may differ from the reference image in small details.",
   "prompts": [
     {
       "id": "01-instagram-dm-screenshot",

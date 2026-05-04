@@ -26,6 +26,8 @@ You can also read the whole sequence in [prompts/all-prompts.md](prompts/all-pro
 
 The prompt files include matching reference images in sequence:
 
+Reference images are visual examples only. The written prompt is the source of truth, and generated outputs may differ from the reference image in small UI, wording, layout, timing, battery, or nested-detail choices.
+
 | # | Reference |
 |---|---|
 | 1 | ![Prompt 1 reference](assets/reference-images/01-instagram-dm-screenshot.png) |

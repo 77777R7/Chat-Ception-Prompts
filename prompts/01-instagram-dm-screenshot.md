@@ -1,5 +1,7 @@
 # Prompt 1: Instagram DM Screenshot
 
+![Reference image for Prompt 1](../assets/reference-images/01-instagram-dm-screenshot.png)
+
 Create an ultra-realistic vertical iPhone screenshot of an Instagram Direct Message conversation in dark mode. It must look like a real iPhone screenshot, not a poster, mockup, concept image, or AI render. Use authentic Instagram DM spacing, proportions, icons, typography, and alignment. Everything visible must be in English.
 
 Canvas: tall iPhone portrait screenshot, black Instagram DM background, no phone frame.

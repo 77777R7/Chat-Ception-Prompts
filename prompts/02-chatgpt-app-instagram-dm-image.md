@@ -1,5 +1,7 @@
 # Prompt 2: ChatGPT App Showing The Instagram DM Image
 
+![Reference image for Prompt 2](../assets/reference-images/02-chatgpt-app-instagram-dm-image.png)
+
 Create an ultra-realistic vertical iPhone screenshot of the ChatGPT iOS app in light mode. The image must look exactly like a real ChatGPT mobile app screenshot, with authentic iPhone proportions, clean white background, natural spacing, real iOS typography, and believable UI details. Do not make it look like a mockup or poster. Everything visible must be in English.
 
 Status bar:

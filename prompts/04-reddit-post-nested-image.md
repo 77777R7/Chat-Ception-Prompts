@@ -1,5 +1,7 @@
 # Prompt 4: Reddit Post Containing The Nested Image
 
+![Reference image for Prompt 4](../assets/reference-images/04-reddit-post-nested-image.png)
+
 Create an ultra-realistic vertical iPhone screenshot of the Reddit mobile app in light mode, showing a post in r/ChatGPT. The screenshot must look like a real Reddit app screenshot taken on an iPhone, with accurate mobile spacing, realistic status bar, sharp typography, and natural UI. Do not make it look like a mockup, poster, or AI-generated concept. Everything visible must be in English.
 
 Top Reddit app bar:

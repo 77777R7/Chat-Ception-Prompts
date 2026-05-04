@@ -22,6 +22,18 @@ The prompts are written to emphasize realistic iPhone proportions, readable text
 
 You can also read the whole sequence in [prompts/all-prompts.md](prompts/all-prompts.md).
 
+## Reference Images
+
+The prompt files include matching reference images in sequence:
+
+| # | Reference |
+|---|---|
+| 1 | ![Prompt 1 reference](assets/reference-images/01-instagram-dm-screenshot.png) |
+| 2 | ![Prompt 2 reference](assets/reference-images/02-chatgpt-app-instagram-dm-image.png) |
+| 3 | ![Prompt 3 reference](assets/reference-images/03-chatgpt-thinking-nested-image.png) |
+| 4 | ![Prompt 4 reference](assets/reference-images/04-reddit-post-nested-image.png) |
+| 5 | ![Prompt 5 reference](assets/reference-images/05-final-chatgpt-reddit-screenshot.png) |
+
 ## How To Use
 
 Use each prompt as a standalone image-generation prompt, or generate them in order to preserve the recursive visual logic.

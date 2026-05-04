@@ -1,5 +1,7 @@
 # Prompt 3: ChatGPT Thinking Screenshot With Nested ChatGPT Image
 
+![Reference image for Prompt 3](../assets/reference-images/03-chatgpt-thinking-nested-image.png)
+
 Create an ultra-realistic vertical iPhone screenshot of the ChatGPT iOS app in light mode, showing a nested generated screenshot. The layout must feel like a real ChatGPT mobile screenshot, not a poster or mockup. Use authentic iOS proportions, soft shadows, realistic spacing, and sharp readable text. Everything visible must be in English.
 
 Outer iPhone status bar:

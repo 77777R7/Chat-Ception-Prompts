@@ -7,30 +7,35 @@
       "id": "01-instagram-dm-screenshot",
       "title": "Instagram DM screenshot",
       "file": "prompts/01-instagram-dm-screenshot.md",
+      "reference_image": "assets/reference-images/01-instagram-dm-screenshot.png",
       "tags": ["instagram", "iphone", "screenshot", "dark-mode", "coca-cola"]
     },
     {
       "id": "02-chatgpt-app-instagram-dm-image",
       "title": "ChatGPT app showing the Instagram DM image",
       "file": "prompts/02-chatgpt-app-instagram-dm-image.md",
+      "reference_image": "assets/reference-images/02-chatgpt-app-instagram-dm-image.png",
       "tags": ["chatgpt", "iphone", "screenshot", "nested-image"]
     },
     {
       "id": "03-chatgpt-thinking-nested-image",
       "title": "ChatGPT Thinking screenshot with nested ChatGPT image",
       "file": "prompts/03-chatgpt-thinking-nested-image.md",
+      "reference_image": "assets/reference-images/03-chatgpt-thinking-nested-image.png",
       "tags": ["chatgpt", "thinking", "iphone", "recursive"]
     },
     {
       "id": "04-reddit-post-nested-image",
       "title": "Reddit post containing the nested image",
       "file": "prompts/04-reddit-post-nested-image.md",
+      "reference_image": "assets/reference-images/04-reddit-post-nested-image.png",
       "tags": ["reddit", "chatgpt", "iphone", "nested-image"]
     },
     {
       "id": "05-final-chatgpt-reddit-screenshot",
       "title": "Final ChatGPT screenshot containing the Reddit screenshot",
       "file": "prompts/05-final-chatgpt-reddit-screenshot.md",
+      "reference_image": "assets/reference-images/05-final-chatgpt-reddit-screenshot.png",
       "tags": ["chatgpt", "reddit", "iphone", "recursive"]
     }
   ]

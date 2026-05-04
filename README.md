@@ -20,7 +20,7 @@ The prompts are written to emphasize realistic iPhone proportions, readable text
 | 4 | Reddit post containing the nested image | [prompts/04-reddit-post-nested-image.md](prompts/04-reddit-post-nested-image.md) |
 | 5 | Final ChatGPT screenshot containing the Reddit screenshot | [prompts/05-final-chatgpt-reddit-screenshot.md](prompts/05-final-chatgpt-reddit-screenshot.md) |
 
-You can also read the whole sequence in [prompts/all-prompts.md](prompts/all-prompts.md).
+For the easiest copy-and-paste workflow, use [prompts/all-prompts.md](prompts/all-prompts.md). It shows each reference image followed immediately by a copyable prompt code block.
 
 ## Reference Images
 
@@ -28,13 +28,7 @@ The prompt files include matching reference images in sequence:
 
 Reference images are visual examples only. The written prompt is the source of truth, and generated outputs may differ from the reference image in small UI, wording, layout, timing, battery, or nested-detail choices.
 
-| # | Reference |
-|---|---|
-| 1 | ![Prompt 1 reference](assets/reference-images/01-instagram-dm-screenshot.png) |
-| 2 | ![Prompt 2 reference](assets/reference-images/02-chatgpt-app-instagram-dm-image.png) |
-| 3 | ![Prompt 3 reference](assets/reference-images/03-chatgpt-thinking-nested-image.png) |
-| 4 | ![Prompt 4 reference](assets/reference-images/04-reddit-post-nested-image.png) |
-| 5 | ![Prompt 5 reference](assets/reference-images/05-final-chatgpt-reddit-screenshot.png) |
+Each individual prompt file also uses the same layout: reference image first, copyable prompt directly underneath.
 
 ## How To Use
 

@@ -4,6 +4,9 @@
 
 Reference image note: This image is only a visual reference. The generated result may differ slightly from the reference image; follow the written prompt as the source of truth.
 
+## Copyable Prompt
+
+```text
 Create an ultra-realistic vertical iPhone screenshot of the ChatGPT iOS app in light mode, showing a generated image that is itself a Reddit post screenshot containing nested generated screenshots. The final result must look like a genuine iPhone screenshot of the ChatGPT app, with authentic iOS proportions, natural spacing, soft shadows, crisp text, and no obvious AI artifacts. Everything visible must be in English.
 
 Outer iPhone status bar:
@@ -82,3 +85,4 @@ Quality requirements:
 - No random extra text
 - No watermark
 - No cartoon or poster style
+```

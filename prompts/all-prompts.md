@@ -6,6 +6,9 @@
 
 Reference image note: This image is only a visual reference. The generated result may differ slightly from the reference image; follow the written prompt as the source of truth.
 
+### Copyable Prompt
+
+```text
 Create an ultra-realistic vertical iPhone screenshot of an Instagram Direct Message conversation in dark mode. It must look like a real iPhone screenshot, not a poster, mockup, concept image, or AI render. Use authentic Instagram DM spacing, proportions, icons, typography, and alignment. Everything visible must be in English.
 
 Canvas: tall iPhone portrait screenshot, black Instagram DM background, no phone frame.
@@ -52,6 +55,7 @@ Quality requirements:
 - No random extra text
 - No obvious AI artifacts
 - No watermark
+```
 
 ## Prompt 2: ChatGPT App Showing The Instagram DM Image
 
@@ -59,6 +63,9 @@ Quality requirements:
 
 Reference image note: This image is only a visual reference. The generated result may differ slightly from the reference image; follow the written prompt as the source of truth.
 
+### Copyable Prompt
+
+```text
 Create an ultra-realistic vertical iPhone screenshot of the ChatGPT iOS app in light mode. The image must look exactly like a real ChatGPT mobile app screenshot, with authentic iPhone proportions, clean white background, natural spacing, real iOS typography, and believable UI details. Do not make it look like a mockup or poster. Everything visible must be in English.
 
 Status bar:
@@ -114,6 +121,7 @@ Quality requirements:
 - No watermark
 - No random extra UI
 - No obvious AI artifacts
+```
 
 ## Prompt 3: ChatGPT Thinking Screenshot With Nested ChatGPT Image
 
@@ -121,6 +129,9 @@ Quality requirements:
 
 Reference image note: This image is only a visual reference. The generated result may differ slightly from the reference image; follow the written prompt as the source of truth.
 
+### Copyable Prompt
+
+```text
 Create an ultra-realistic vertical iPhone screenshot of the ChatGPT iOS app in light mode, showing a nested generated screenshot. The layout must feel like a real ChatGPT mobile screenshot, not a poster or mockup. Use authentic iOS proportions, soft shadows, realistic spacing, and sharp readable text. Everything visible must be in English.
 
 Outer iPhone status bar:
@@ -176,6 +187,7 @@ Quality requirements:
 - No extra captions
 - No watermark
 - Real iPhone screenshot appearance
+```
 
 ## Prompt 4: Reddit Post Containing The Nested Image
 
@@ -183,6 +195,9 @@ Quality requirements:
 
 Reference image note: This image is only a visual reference. The generated result may differ slightly from the reference image; follow the written prompt as the source of truth.
 
+### Copyable Prompt
+
+```text
 Create an ultra-realistic vertical iPhone screenshot of the Reddit mobile app in light mode, showing a post in r/ChatGPT. The screenshot must look like a real Reddit app screenshot taken on an iPhone, with accurate mobile spacing, realistic status bar, sharp typography, and natural UI. Do not make it look like a mockup, poster, or AI-generated concept. Everything visible must be in English.
 
 Top Reddit app bar:
@@ -249,6 +264,7 @@ Quality requirements:
 - No random extra text
 - No watermark
 - No obvious AI artifacts
+```
 
 ## Prompt 5: Final ChatGPT Screenshot Containing The Reddit Screenshot
 
@@ -256,6 +272,9 @@ Quality requirements:
 
 Reference image note: This image is only a visual reference. The generated result may differ slightly from the reference image; follow the written prompt as the source of truth.
 
+### Copyable Prompt
+
+```text
 Create an ultra-realistic vertical iPhone screenshot of the ChatGPT iOS app in light mode, showing a generated image that is itself a Reddit post screenshot containing nested generated screenshots. The final result must look like a genuine iPhone screenshot of the ChatGPT app, with authentic iOS proportions, natural spacing, soft shadows, crisp text, and no obvious AI artifacts. Everything visible must be in English.
 
 Outer iPhone status bar:
@@ -334,3 +353,4 @@ Quality requirements:
 - No random extra text
 - No watermark
 - No cartoon or poster style
+```

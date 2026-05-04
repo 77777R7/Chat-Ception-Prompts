@@ -4,6 +4,9 @@
 
 Reference image note: This image is only a visual reference. The generated result may differ slightly from the reference image; follow the written prompt as the source of truth.
 
+## Copyable Prompt
+
+```text
 Create an ultra-realistic vertical iPhone screenshot of the Reddit mobile app in light mode, showing a post in r/ChatGPT. The screenshot must look like a real Reddit app screenshot taken on an iPhone, with accurate mobile spacing, realistic status bar, sharp typography, and natural UI. Do not make it look like a mockup, poster, or AI-generated concept. Everything visible must be in English.
 
 Top Reddit app bar:
@@ -70,3 +73,4 @@ Quality requirements:
 - No random extra text
 - No watermark
 - No obvious AI artifacts
+```

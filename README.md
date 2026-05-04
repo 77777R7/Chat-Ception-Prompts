@@ -1,6 +1,6 @@
-# Recursive Screenshot Prompts
+# Chat-Ception Prompts
 
-A compact open-source prompt pack for creating a recursive chain of realistic mobile screenshots:
+A compact open-source prompt pack for Chat-Ception: a recursive chain of realistic mobile screenshots:
 
 1. Instagram DM screenshot with a realistic Coca-Cola photo
 2. ChatGPT app screenshot containing the Instagram DM image

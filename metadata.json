@@ -1,0 +1,37 @@
+{
+  "name": "recursive-screenshot-prompts",
+  "description": "Five image-generation prompts for a recursive chain of realistic mobile screenshots.",
+  "license": "MIT",
+  "prompts": [
+    {
+      "id": "01-instagram-dm-screenshot",
+      "title": "Instagram DM screenshot",
+      "file": "prompts/01-instagram-dm-screenshot.md",
+      "tags": ["instagram", "iphone", "screenshot", "dark-mode", "coca-cola"]
+    },
+    {
+      "id": "02-chatgpt-app-instagram-dm-image",
+      "title": "ChatGPT app showing the Instagram DM image",
+      "file": "prompts/02-chatgpt-app-instagram-dm-image.md",
+      "tags": ["chatgpt", "iphone", "screenshot", "nested-image"]
+    },
+    {
+      "id": "03-chatgpt-thinking-nested-image",
+      "title": "ChatGPT Thinking screenshot with nested ChatGPT image",
+      "file": "prompts/03-chatgpt-thinking-nested-image.md",
+      "tags": ["chatgpt", "thinking", "iphone", "recursive"]
+    },
+    {
+      "id": "04-reddit-post-nested-image",
+      "title": "Reddit post containing the nested image",
+      "file": "prompts/04-reddit-post-nested-image.md",
+      "tags": ["reddit", "chatgpt", "iphone", "nested-image"]
+    },
+    {
+      "id": "05-final-chatgpt-reddit-screenshot",
+      "title": "Final ChatGPT screenshot containing the Reddit screenshot",
+      "file": "prompts/05-final-chatgpt-reddit-screenshot.md",
+      "tags": ["chatgpt", "reddit", "iphone", "recursive"]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+name: Prompt improvement
+description: Suggest a prompt wording or structure improvement.
+title: "[Prompt improvement]: "
+labels: ["prompt"]
+body:
+  - type: dropdown
+    id: prompt
+    attributes:
+      label: Prompt
+      options:
+        - Prompt 1: Instagram DM screenshot
+        - Prompt 2: ChatGPT app showing the Instagram DM image
+        - Prompt 3: ChatGPT Thinking screenshot with nested ChatGPT image
+        - Prompt 4: Reddit post containing the nested image
+        - Prompt 5: Final ChatGPT screenshot containing the Reddit screenshot
+        - All prompts
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What should improve?
+      description: Describe the realism, readability, consistency, or safety issue.
+    validations:
+      required: true
+  - type: textarea
+    id: suggested-change
+    attributes:
+      label: Suggested wording
+      description: Paste the proposed prompt change if you have one.
+    validations:
+      required: false
+  - type: textarea
+    id: examples
+    attributes:
+      label: Example output
+      description: Add links or notes about outputs that show the issue.
+    validations:
+      required: false
